@@ -1,13 +1,3 @@
-﻿/* *******************************************************************
-* Colegio Técnico Antônio Teixeira Fernandes (Univap)
-* Curso Técnico em Informática - Data de Entrega: 26/03/2025
-* Autores do Projeto: Amanda Leite de Souza Machado
-*                     Yure Campos Camilo
-* Turma: 2I
-* Projeto 1° Bimestre
-* 
-* fabrica_brinquedos.cs
-* ************************************************************/
 
 using System;
 using System.Collections.Generic;
